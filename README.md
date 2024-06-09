@@ -33,3 +33,4 @@ Si encuentras errores o mejoras, siéntete libre de abrir un problema o enviar u
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE.md para más detalles.
+
